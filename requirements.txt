@@ -1,0 +1,11 @@
+streamlit>=1.40
+langgraph>=0.2.60
+langchain-core>=0.3.30
+langchain-openai>=0.3
+openai>=1.60
+numpy>=1.26
+pandas>=2.2
+plotly>=5.24
+pydeck>=0.9
+requests>=2.32
+python-dotenv>=1.0

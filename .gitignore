@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/telemetry.db
+data/sop_vector_index.json
+.DS_Store
+*.pyc
